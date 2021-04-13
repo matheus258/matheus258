@@ -5,9 +5,8 @@ My name is Matheus marques, I'm from Brazil, I'm A  Information Systems 🖥️ 
 - 📍 From PB living in campina Grande
 - 🖥️ University UNIFACISA
 
-[![Linkedin Badge](https://img.shields.io/badge/-Maheus%20Marques-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-marquesdev/)](https://www.linkedin.com/in/matheus-marquesdev/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Maheus%20Marques-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-marquesdev/)](https://www.linkedin.com/in/matheus-marquesdev/) [![Gmail Badge](https://img.shields.io/badge/-matheusmarquesaraujo53@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:matheusmarquesaraujo53@gmail.com)
 
-[![Gmail Badge](https://img.shields.io/badge/-matheusmarquesaraujo53@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:matheusmarquesaraujo53@gmail.com)
 
 
 <!---
