@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @matheus258;
+- 👋 Hi, I’m Matheus Marques;
 - 💻  I am studying Information Systems; 
 - 📕  I’m currently learning Javascript and Python;
 - 🎯The area I want to work in backend;
