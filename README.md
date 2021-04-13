@@ -1,6 +1,7 @@
 # Hey 👋
 
-My name is Matheus marques, I'm from Brazil, I'm A  Information Systems 🖥️ The area I want to work in backend.
+My name is Matheus marques, I'm from Brazil, I'm A  Information Systems 🖥️ 
+The area I want to work in backend.
 
 - 📍 From PB living in campina Grande
 - 🖥️ University UNIFACISA
@@ -9,7 +10,7 @@ My name is Matheus marques, I'm from Brazil, I'm A  Information Systems 🖥️ 
 
 **“A melhor maneira de prever o futuro é inventá-lo.”**
 
-Alan Kay
+
 
 
 <!---
