@@ -5,7 +5,7 @@ The area I want to work in backend.
 
 - 📍 From PB living in campina Grande
 - 🖥️ University UNIFACISA
-- 📚 I’m currently learning Javascript and Python 
+- 📚 I’m currently learning Java, Javascript and Python 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Maheus%20Marques-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-marquesdev/)](https://www.linkedin.com/in/matheus-marquesdev/) [![Gmail Badge](https://img.shields.io/badge/-matheusmarquesaraujo53@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:matheusmarquesaraujo53@gmail.com)
 
