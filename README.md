@@ -1,6 +1,6 @@
 # Hey 👋
 
-My name is Matheus Marques, I'm from Brazil, I'm A  Information Systems 🖥️ <br />
+My name is Matheus Marques, I'm from Brazil, I'm A  Computer Science 🖥️ <br />
 The area I want to work in Fullstack (front and backend).
 
 - 📍 From PB living in campina Grande
