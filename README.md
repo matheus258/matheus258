@@ -5,7 +5,7 @@ The area I want to work in Fullstack (front and backend).
 
 - 📍 From PB living in campina Grande
 - 🖥️ University DESCOMPLICA
-- 📚 I’m currently learning JavaScript, Node and React.Js
+- 📚 I’m currently learning JavaScript, Node, React.Js and Vue.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Maheus%20Marques-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-marquesdev/)](https://www.linkedin.com/in/matheus-marquesdev/) [![Gmail Badge](https://img.shields.io/badge/-marquesdev258@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:marquesdev258@gmail.com)
 
